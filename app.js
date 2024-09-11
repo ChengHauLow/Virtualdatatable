@@ -1,6 +1,7 @@
 const realContents = document.querySelector('.realContents');
 const fakeContent = document.querySelector('.fakeContent');
 const tableWraper = document.querySelector('.tableWraper');
+const addTesting = null
 let start = 0
 let end = start + 20
 const generateRandom100Numbers = (continueFrom=0)=>{
